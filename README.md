@@ -21,15 +21,3 @@ Video conversion is fiddly and slow. I wanted a service that:
 cp .env.example .env   # fill values
 docker-compose up --build
 
-
-⸻
-
-About me
-
-I love building useful backend systems that make life easier for people using video and media tech.
-
-If you’d like to collaborate, chat about media pipelines, or discuss scaling backends, you can find me here:
-	•	LinkedIn: https://www.linkedin.com/in/mina-shahramyar
-	•	GitHub: https://github.com/minashahramyar
-
-⸻
